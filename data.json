@@ -1,7 +1,7 @@
 {
     "TicTacToe": {
       "version": "1.1",
-        "useSecured":false,
+        "useSecured":true,
     "min_version":"1.0",
       "Server_url": "192.168.0.103:8084",
       "PlayerMatch_url":"192.168.0.103:8084",
